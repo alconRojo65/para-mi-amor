@@ -1,0 +1,41 @@
+.cuerpo{
+    background-color:lightgrey;
+    width: 900px;
+    height: 700px;
+    border-radius: 35px;
+    
+    padding: 20px;
+    margin: auto;
+    text-align: justify;
+}
+
+.mensaje{
+    font-size: 170%;
+}
+
+.boton{
+    margin-top: 70px;
+    text-align: center;
+}
+
+button{
+    font-size: 50px;
+    background-color: red;
+    border-radius: 15px;
+}
+
+.titulo{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 110%;
+    text-align: center;
+}
+
+body{
+    display: flex;
+    align-items: center;
+}
+
+.corazon{
+    position: absolute;
+    font-size: 140px;
+}
