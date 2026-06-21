@@ -16,5 +16,5 @@ function agregarCorazon(){
 
     setTimeout(() => {
         corazon.remove();
-    }, 3000);
+    }, 4000);
 }
